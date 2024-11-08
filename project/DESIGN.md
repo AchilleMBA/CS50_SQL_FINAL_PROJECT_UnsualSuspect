@@ -209,8 +209,8 @@ In this section you should answer the following questions:
 ### Relationships
 
 markdown
-![UNSUAL SUSPECT ERD (ENTITY RELASHIONSHIP DIAGRAM)]
-(project/project/ERD-UNSUAL SUSPECT.png)
+![ERD_UNSUAL_SUSPECT](https://github.com/user-attachments/assets/c4fd9b15-3d1d-4c14-bd6a-26d2bb617be1)
+
 
 # DESCRIPTION
 
