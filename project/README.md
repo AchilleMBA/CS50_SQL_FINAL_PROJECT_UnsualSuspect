@@ -285,6 +285,12 @@ INDEX "Location" ("Bracelet_id")
 ## VIEWS
 To check and display movements from the victim and other,
 
+CREATE VIEW colors_evidence AS
+
+CREATE VIEW Sarah_movements AS
+
+CREATE VIEW Samourai_movements AS
+
 ##  Triggers
 SQL triggers are used to automatically execute specific actions in the database in response to certain events, 
 like inserts, updates, or deletes, on a table.
