@@ -272,6 +272,12 @@ INDEX "Location" ("Bracelet_id")
 ## VIEWS
 To check and display movements from the victim and other,
 
+CREATE VIEW colors_evidence AS
+
+CREATE VIEW Sarah_movements AS
+
+CREATE VIEW Samourai_movements AS
+
 ## Limitations
 
 * The database represents an event over a short period of time and not over a long period,
