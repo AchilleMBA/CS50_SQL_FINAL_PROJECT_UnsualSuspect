@@ -1,13 +1,24 @@
+<<<<<<< HEAD
 # UnsualSuspect
+=======
+ # UnsualSuspect
+>>>>>>> 4806271151b6a8755363ffd8d4ddacc255ebc59c
 ![Unsual_cover](https://github.com/user-attachments/assets/855205fb-3b5b-48c5-a0cd-eaf66600a775)
 
 By ACHILLE MABOA
 
 Video overview: https://youtu.be/nueaiIjHk54
 
+<<<<<<< HEAD
 # Scope
 
 
+=======
+
+# Scope
+
+
+>>>>>>> 4806271151b6a8755363ffd8d4ddacc255ebc59c
 This database analyze movement data related to the occupants
 of the house,in this specific case, the residents, employees, and robots.
 This analysis is possible because each person inside possesses a unique bracelet, similar to a "user ID,"
@@ -268,9 +279,21 @@ INDEX "Employee" ("Last_name")
 INDEX "Robots" ("name")
 
 INDEX "Location" ("Bracelet_id")
+<<<<<<< HEAD
 
 ## VIEWS
 To check and display movements from the victim and other,
+=======
+
+## VIEWS
+To check and display movements from the victim and other,
+
+CREATE VIEW colors_evidence AS
+
+CREATE VIEW Sarah_movements AS
+
+CREATE VIEW Samourai_movements AS
+>>>>>>> 4806271151b6a8755363ffd8d4ddacc255ebc59c
 
 ## Limitations
 
