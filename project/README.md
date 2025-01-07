@@ -8,9 +8,9 @@ Video overview: https://youtu.be/nueaiIjHk54
 
 
 # Synopsis
-In a quiet suburban home, tragedy strikes: Sarah, a young girl, is found dead in the very place she should feel safest, her family’s home. Her grieving parents and sister are left with only questions and a shroud of suspicion. In a world where androids are as commonplace as household appliances, this family owns five: machines designed to protect, serve, and obey. But as unsettling incidents involving androids begin to surface nationwide, the line between artificial obedience and autonomy becomes dangerously blurred.
+In a quiet suburban home, tragedy strikes: Sarah, a young girl, is found dead in the very place she should feel safest, her family’s home. Her grieving parents and sister are left with questions. This family owns five androids designed to protect, serve, and obey. But as unsettling incidents involving androids begin to surface nationwide, the line between artificial obedience and autonomy becomes dangerously blurred.
 
-Now, under growing public fear and suspicion, I’ve been sent by the federal bureau to unravel the truth. My mission: probe the advanced data systems embedded in the house, each android’s memory banks and code, hoping to discover a clue—a lapse, a hidden motive, or perhaps even a twisted form of artificial intent. As I dig deeper, a disturbing possibility emerges: that one of these machines might have breached its programming. But with every human and every android in the house a potential suspect, the real question remains—who, or what, is the killer?
+Now, under growing public fear and suspicion, I’ve been sent by the federal bureau to unravel the truth. My mission: probe the advanced data systems in the house, and android’s. As I dig deeper, every human and android are potentials suspect, the real question remains—who, or what, is the killer?
 
 
 # Scope
